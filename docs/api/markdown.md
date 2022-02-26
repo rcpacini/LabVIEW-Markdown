@@ -7,7 +7,7 @@
 
 Open and run the `Example.vi` to see an how to export a LabVIEW Library (*.lvlib) to markdown documentation.
 
-This is useful to autogenerate API help documentation for GitHut.
+This is useful to auto-generate API help documentation for GitHub.
 
 ![%demo_name%](markdown/Example_Markdown.lvlib_Example.vi.png)
 
